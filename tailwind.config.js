@@ -7,6 +7,9 @@ module.exports = {
         coffee: {
           50: '#79624E', 
         },
+        Tint:{
+          50:'#d11d04',
+        }
       }
     },
   },
